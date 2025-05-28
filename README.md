@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vuong</h1>
-<h3 align="center">💻 Student Developer from Vietnam 🇻🇳</h3>
-
-<p align="center">
-  🚀 Passionate about web development, backend engineering, and learning new technologies.
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FFF0&vCenter=true&width=800&lines=Hi+there%2C+I'm+Vương;)
 
 ---
 
@@ -76,3 +71,12 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
+---
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=00FF00&vCenter=true&width=1000&lines=asafsasaetassdgsergsegasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=495&color=00FF00&vCenter=true&width=1000&lines=asdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuldasjhdlwuasdasdhsadasldasjhdlwu)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=490&color=00FF00&vCenter=true&width=1000&lines=wgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefsesldasjhdlwuasdasdhsadasldasjhdlwu)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=485&color=00FF00&vCenter=true&width=1000&lines=efsgsegsgsdsegesgsffsgsdsewsasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=480&color=00FF00&vCenter=true&width=1000&lines=asasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsewsldasjhdlwuasdasdhsadasldasjhdlwu)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=475&color=00FF00&vCenter=true&width=1000&lines=asafsasaetassdgsergsegasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
