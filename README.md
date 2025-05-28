@@ -55,6 +55,15 @@
 
 ---
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=00FF00&vCenter=true&width=1000&lines=asafsasaetassdgsergsegasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=495&color=00FF00&vCenter=true&width=1000&lines=asdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuldasjhdlwuasdasdhsadasldasjhdlwu)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=490&color=00FF00&vCenter=true&width=1000&lines=wgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefsesldasjhdlwuasdasdhsadasldasjhdlwu)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=485&color=00FF00&vCenter=true&width=1000&lines=efsgsegsgsdsegesgsffsgsdsewsasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=480&color=00FF00&vCenter=true&width=1000&lines=asasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsewsldasjhdlwuasdasdhsadasldasjhdlwu)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=475&color=00FF00&vCenter=true&width=1000&lines=asafsasaetassdgsergsegasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
+
+---
+
 ### # Connect with Me
 
 <p align="left">
@@ -71,12 +80,3 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
----
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=00FF00&vCenter=true&width=1000&lines=asafsasaetassdgsergsegasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=495&color=00FF00&vCenter=true&width=1000&lines=asdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuldasjhdlwuasdasdhsadasldasjhdlwu)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=490&color=00FF00&vCenter=true&width=1000&lines=wgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefsesldasjhdlwuasdasdhsadasldasjhdlwu)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=485&color=00FF00&vCenter=true&width=1000&lines=efsgsegsgsdsegesgsffsgsdsewsasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=480&color=00FF00&vCenter=true&width=1000&lines=asasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsewsldasjhdlwuasdasdhsadasldasjhdlwu)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=475&color=00FF00&vCenter=true&width=1000&lines=asafsasaetassdgsergsegasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
