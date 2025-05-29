@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FFF0&vCenter=true&width=800&lines=Hi+there%2C+I'm+Vương;)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=2CF2F7&background=FFFFFF00&width=435&lines=Hello+world%2C+I'm+Vuong)](https://git.io/typing-svg)
 
 ---
 
@@ -53,14 +53,7 @@
   <img src="https://raw.githubusercontent.com/morkaths/morkaths/output/snake.svg" alt="snake animation" />
 </p>
 
----
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=00FF00&vCenter=true&width=1000&lines=asafsasaetassdgsergsegasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=495&color=00FF00&vCenter=true&width=1000&lines=asdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuasdasdhsadasldasjhdlwuldasjhdlwuasdasdhsadasldasjhdlwu)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=490&color=00FF00&vCenter=true&width=1000&lines=wgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefseswgrggdfhdgswerwfsdsefsesldasjhdlwuasdasdhsadasldasjhdlwu)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=485&color=00FF00&vCenter=true&width=1000&lines=efsgsegsgsdsegesgsffsgsdsewsasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=480&color=00FF00&vCenter=true&width=1000&lines=asasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsewsldasjhdlwuasdasdhsadasldasjhdlwu)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=475&color=00FF00&vCenter=true&width=1000&lines=asafsasaetassdgsergsegasasfeghshdsvsdvsdcsdadawewfefsgsegsgsdsegesgsffsgsdsewsefsgsegsgsdsegesgsffsgsdsews)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=FFDC00&background=FFFFFF00&width=1000&separator=%3C&lines=(function(_0xabc)%7Bvar+_0xdef%3Dfunction(_0x123)%7Bconsole%5B'log'%5D(@Snake%2C+'%2B_0x123);%7D;_0xdef('Run');%7D)();)](https://git.io/typing-svg)
 
 ---
 
