@@ -8,7 +8,7 @@
 -  I love working with: **JavaScript, TypeScript, PHP, Java, .NET**
 -  Currently learning: **React, Docker, and DevOps tools**
 -  Always open to collaborate on open-source and freelance projects.
--  Reach me at: *vuong.dev.email@gmail.com*
+-  Reach me at: *morkaths@gmail.com*
 
 ---
 
@@ -52,8 +52,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/morkaths/morkaths/output/snake.svg" alt="snake animation" />
 </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=FFDC00&background=FFFFFF00&width=1000&separator=%3C&lines=(function(_0xabc)%7Bvar+_0xdef%3Dfunction(_0x123)%7Bconsole%5B'log'%5D(@Snake%2C+'%2B_0x123);%7D;_0xdef('Run');%7D)();)](https://git.io/typing-svg)
 
 ---
 
