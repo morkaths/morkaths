@@ -2,30 +2,30 @@
   <defs>
     <!-- Sky: soft enough for both bright and dark display contexts -->
     <radialGradient id="av-sky" cx="0.5" cy="1" r="1.1">
-      <stop offset="0" stop-color="#1f4654"/>
-      <stop offset="0.55" stop-color="#102d39"/>
-      <stop offset="1" stop-color="#071923"/>
+      <stop offset="0" stop-color="#d9d9d9"/>
+      <stop offset="0.55" stop-color="#b9b9b9"/>
+      <stop offset="1" stop-color="#8c8c8c"/>
     </radialGradient>
 
     <!-- Aurora ribbon palettes -->
     <linearGradient id="av-teal" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8fc9c9" stop-opacity="0"/>
-      <stop offset="0.2" stop-color="#8fc9c9" stop-opacity="0.4"/>
-      <stop offset="0.55" stop-color="#c2e2df" stop-opacity="0.68"/>
-      <stop offset="0.85" stop-color="#8fc9c9" stop-opacity="0.36"/>
-      <stop offset="1" stop-color="#8fc9c9" stop-opacity="0"/>
+      <stop offset="0" stop-color="#d9c2b4" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#d9c2b4" stop-opacity="0.28"/>
+      <stop offset="0.52" stop-color="#f0d9c8" stop-opacity="0.6"/>
+      <stop offset="0.8" stop-color="#d9c2b4" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#d9c2b4" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="av-magenta" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#9aabd2" stop-opacity="0"/>
-      <stop offset="0.3" stop-color="#9aabd2" stop-opacity="0.3"/>
-      <stop offset="0.6" stop-color="#c4cbe2" stop-opacity="0.52"/>
-      <stop offset="0.85" stop-color="#9aabd2" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#9aabd2" stop-opacity="0"/>
+      <stop offset="0" stop-color="#d4b7a8" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#d4b7a8" stop-opacity="0.24"/>
+      <stop offset="0.58" stop-color="#f1d5c7" stop-opacity="0.5"/>
+      <stop offset="0.85" stop-color="#d4b7a8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#d4b7a8" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="av-amber" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#d3ac78" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#d3ac78" stop-opacity="0.34"/>
-      <stop offset="1" stop-color="#d3ac78" stop-opacity="0"/>
+      <stop offset="0" stop-color="#e7c9a4" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#e7c9a4" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#e7c9a4" stop-opacity="0"/>
     </linearGradient>
 
     <!-- Living turbulence: animated baseFrequency + seed -->
@@ -53,7 +53,7 @@
     <!-- Gentle haze softens the headline without losing readability. -->
     <filter id="av-glow" x="-25%" y="-60%" width="150%" height="200%">
       <feGaussianBlur in="SourceAlpha" stdDeviation="5" result="ambient-blur"/>
-      <feFlood flood-color="#c4c9cd" flood-opacity="0.1" result="ambient-color"/>
+      <feFlood flood-color="#dfe5e8" flood-opacity="0.08" result="ambient-color"/>
       <feComposite in="ambient-color" in2="ambient-blur" operator="in" result="ambient"/>
       <feGaussianBlur in="SourceGraphic" stdDeviation="0.28" result="soft-source"/>
       <feMerge>
@@ -65,17 +65,17 @@
     <!-- Grain overlay -->
     <filter id="av-grain" x="0" y="0" width="100%" height="100%">
       <feTurbulence baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
-      <feColorMatrix values="0 0 0 0 0.78
-        0 0 0 0 0.84
-        0 0 0 0 0.86
-        0 0 0 0 0.84
-                0 0 0 0.06 0"/>
+      <feColorMatrix values="0 0 0 0 0.72
+        0 0 0 0 0.78
+        0 0 0 0 0.8
+        0 0 0 0 0.74
+                0 0 0 0.05 0"/>
     </filter>
 
     <!-- Mountain silhouette -->
     <linearGradient id="av-mtn" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0f2631"/>
-      <stop offset="1" stop-color="#06131b"/>
+      <stop offset="0" stop-color="#8b8b8b"/>
+      <stop offset="1" stop-color="#565656"/>
     </linearGradient>
   </defs>
 
@@ -86,7 +86,7 @@
   <rect width="1200" height="420" filter="url(#av-grain)" opacity="0.4"/>
 
   <!-- Stars -->
-  <g fill="#e4f1ef">
+  <g fill="#f2f2f2">
     <circle cx="80"   cy="42"  r="0.8"><animate attributeName="opacity" values="0.2;0.95;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
     <circle cx="160"  cy="78"  r="1.1"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="2.8s" repeatCount="indefinite"/></circle>
     <circle cx="240"  cy="34"  r="0.7"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.1s" repeatCount="indefinite"/></circle>
@@ -127,26 +127,26 @@
   <!-- Mountain silhouette -->
   <path d="M0,420 L0,300 L80,272 L150,288 L210,250 L280,280 L340,238 L420,272 L490,250 L580,290 L640,260 L720,295 L800,258 L880,288 L950,266 L1030,302 L1100,278 L1170,294 L1200,280 L1200,420 Z" fill="url(#av-mtn)"/>
   <!-- Mountain inner highlight -->
-  <path d="M0,300 L80,272 L150,288 L210,250 L280,280 L340,238 L420,272 L490,250 L580,290 L640,260 L720,295 L800,258 L880,288 L950,266 L1030,302 L1100,278 L1170,294 L1200,280" fill="none" stroke="#929aa1" stroke-width="0.6" opacity="0.5"/>
+  <path d="M0,300 L80,272 L150,288 L210,250 L280,280 L340,238 L420,272 L490,250 L580,290 L640,260 L720,295 L800,258 L880,288 L950,266 L1030,302 L1100,278 L1170,294 L1200,280" fill="none" stroke="#c4c4c4" stroke-width="0.6" opacity="0.55"/>
 
   <!-- Type — sits on top of horizon -->
   <g font-family="'JetBrains Mono', monospace">
-    <text x="80" y="368" font-size="74" font-weight="500" font-style="italic" fill="#d5d9dd" opacity="0.84" filter="url(#av-glow)" letter-spacing="-1.5">_morkath</text>
+    <text x="80" y="368" font-size="74" font-weight="500" font-style="italic" fill="#f5f5f5" opacity="0.96" filter="url(#av-glow)" letter-spacing="-1.5">_morkath</text>
   </g>
   <g font-family="'JetBrains Mono', monospace">
-    <text x="82" y="396" font-size="12" fill="#b9bec4" letter-spacing="3" opacity="0.62">SOFTWARE ENGINEER</text>
+    <text x="82" y="396" font-size="12" fill="#ebebeb" letter-spacing="3" opacity="0.9">SOFTWARE ENGINEER</text>
   </g>
   <g font-family="'JetBrains Mono', monospace">
-    <text x="1120" y="396" text-anchor="end" font-size="12" fill="#aab1b8" letter-spacing="3" opacity="0.62">QUYNHON, VIETNAM</text>
+    <text x="1120" y="396" text-anchor="end" font-size="12" fill="#e5e5e5" letter-spacing="3" opacity="0.9">QUYNHON, VIETNAM</text>
   </g>
 
   <!-- Editorial corner mark -->
-  <g transform="translate(80,40)" font-family="'JetBrains Mono', monospace" font-size="9" fill="#9aa2aa" letter-spacing="3">
-    <line x1="0" y1="0" x2="14" y2="0" stroke="#9aa2aa" stroke-width="0.6"/>
+  <g transform="translate(80,40)" font-family="'JetBrains Mono', monospace" font-size="9" fill="#d7d7d7" letter-spacing="3">
+    <line x1="0" y1="0" x2="14" y2="0" stroke="#d7d7d7" stroke-width="0.6"/>
     <text x="20" y="3">VOL.MMXXVI · ISSUE 01</text>
   </g>
-  <g transform="translate(1120,40)" font-family="'JetBrains Mono', monospace" font-size="9" fill="#9aa2aa" letter-spacing="3" text-anchor="end">
+  <g transform="translate(1120,40)" font-family="'JetBrains Mono', monospace" font-size="9" fill="#d7d7d7" letter-spacing="3" text-anchor="end">
     <text x="-20" y="3">KP 6  ·  SKY CLEAR</text>
-    <line x1="-14" y1="0" x2="0" y2="0" stroke="#9aa2aa" stroke-width="0.6"/>
+    <line x1="-14" y1="0" x2="0" y2="0" stroke="#d7d7d7" stroke-width="0.6"/>
   </g>
 </svg>
